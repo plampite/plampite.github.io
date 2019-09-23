@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors |  Paolo Lampitella</title>
+    <link>https://plampite.github.io/authors/</link>
+      <atom:link href="https://plampite.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Paolo Lampitella</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://plampite.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://plampite.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://plampite.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://plampite.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Paolo holds a B.Sc. and a M.Sc. in Aerospace Engineering and a Ph.D. in Energy and Nuclear Science and Technology. A mathematician and physicist wannabe, he eventually falled in love with computational physics, once he found it to be a cheap source of dopamine for his brain reward system. With a special interest in CFD and related fields, Large Eddy Simulation and Immersed Boundary Methods have become his main area of expertise. A Fortran integralist, he tries to keep a low profile doing more blatant stuff in C++ and Qt.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://plampite.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://plampite.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
