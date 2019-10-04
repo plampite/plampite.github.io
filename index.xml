@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Paolo Lampitella</title>
-    <link>https://plampite.github.io/</link>
-      <atom:link href="https://plampite.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.paololampitella.com/</link>
+      <atom:link href="https://www.paololampitella.com/index.xml" rel="self" type="application/rss+xml" />
     <description> Paolo Lampitella</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Paolo Lampitella</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://plampite.github.io/img/icon-192.png</url>
+      <url>https://www.paololampitella.com/img/icon-192.png</url>
       <title> Paolo Lampitella</title>
-      <link>https://plampite.github.io/</link>
+      <link>https://www.paololampitella.com/</link>
     </image>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://plampite.github.io/talk/</link>
+      <link>https://www.paololampitella.com/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/talk/</guid>
+      <guid>https://www.paololampitella.com/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://plampite.github.io/post/</link>
+      <link>https://www.paololampitella.com/post/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/post/</guid>
+      <guid>https://www.paololampitella.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://plampite.github.io/publication/</link>
+      <link>https://www.paololampitella.com/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/publication/</guid>
+      <guid>https://www.paololampitella.com/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://plampite.github.io/slides/</link>
+      <link>https://www.paololampitella.com/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/slides/</guid>
+      <guid>https://www.paololampitella.com/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://plampite.github.io/project/</link>
+      <link>https://www.paololampitella.com/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/project/</guid>
+      <guid>https://www.paololampitella.com/project/</guid>
       <description></description>
     </item>
     
@@ -62,9 +62,9 @@
     
     <item>
       <title>Courses</title>
-      <link>https://plampite.github.io/courses/</link>
+      <link>https://www.paololampitella.com/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/courses/</guid>
+      <guid>https://www.paololampitella.com/courses/</guid>
       <description></description>
     </item>
     

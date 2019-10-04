@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories |  Paolo Lampitella</title>
-    <link>https://plampite.github.io/categories/</link>
-      <atom:link href="https://plampite.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.paololampitella.com/categories/</link>
+      <atom:link href="https://www.paololampitella.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Paolo Lampitella</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://plampite.github.io/img/icon-192.png</url>
+      <url>https://www.paololampitella.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://plampite.github.io/categories/</link>
+      <link>https://www.paololampitella.com/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://plampite.github.io/categories/demo/</link>
+      <link>https://www.paololampitella.com/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://plampite.github.io/categories/demo/</guid>
+      <guid>https://www.paololampitella.com/categories/demo/</guid>
       <description></description>
     </item>
     
